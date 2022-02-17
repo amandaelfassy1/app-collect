@@ -32,7 +32,6 @@
     "react-native-shared-element": "^0.8.4",
     "react-native-svg": "^12.1.1",
     "react-native-vector-icons": "^9.0.0",
-    "react-navigation-drawer": "^2.7.2",
     "typescript": "^4.5.5"
   },
   "devDependencies": {
